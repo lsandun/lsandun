@@ -5,7 +5,7 @@
 
 <h3 align="left">About me:</h3>
 
-- 🔭 I’m currently Studying on **South Eastern University of Sri Lanka | CS & Stat**
+- 🔭 I’m currently Studying at **South Eastern University of Sri Lanka | CS & Stat**
 
 - 🌱 I’m currently learning **Java , React , Angular , nodeJs , expressJS**
 
