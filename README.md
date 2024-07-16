@@ -25,19 +25,7 @@
 
 <h3 align="left">GitHub Analytics:</h3>
 
-<p align="center">
-  <a href="https://github.com/lsandun">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lsandun&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/lsandun">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lsandun&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lsandun&theme=dark&hide_border=false)&nbsp;&nbsp;&nbsp;
+![](https://github-readme-stats.vercel.app/api?username=lsandun&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=lsandun&theme=dark&hide_border=true"/>
-</p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lsandun" alt="lsandun" /></a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lsandun&show_icons=true&locale=en&layout=compact" alt="lsandun" /></p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lsandun&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
